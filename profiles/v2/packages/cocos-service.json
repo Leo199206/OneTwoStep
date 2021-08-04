@@ -1,0 +1,16 @@
+{
+  "options": {
+    "web-desktop": {
+      "configID": "0ec4dc",
+      "services": []
+    },
+    "android": {
+      "configID": "0ec4dc",
+      "services": []
+    }
+  },
+  "builder-options": {
+    "configID": "0ec4dc",
+    "services": []
+  }
+}
