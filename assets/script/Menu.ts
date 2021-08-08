@@ -20,7 +20,7 @@ export class Menu extends Component {
      * 点击开始游戏时，打开游戏场景
      */ 
     private onBtnPlay(){
-            director.loadScene('game');
+        director.loadScene('game');
     }
 
     // update (deltaTime: number) {

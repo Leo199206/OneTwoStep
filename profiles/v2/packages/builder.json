@@ -12,17 +12,22 @@
   },
   "BuildTaskManager": {
     "taskMap": {
-      "1628057868117": {
-        "id": "1628057868117",
+      "1628215774287": {
+        "id": "1628215774287",
         "progress": 1,
         "state": "success",
-        "message": "2021-8-4 17:52 Build success in 4857 ms!",
+        "message": "2021-8-6 10:09 Build success in 9504 ms!",
         "options": {
           "packages": {
             "android": {
               "packageName": "com.cocos.android",
               "apiLevel": "android-29",
-              "appABIs": [],
+              "appABIs": [
+                "armeabi-v7a",
+                "arm64-v8a",
+                "x86",
+                "x86_64"
+              ],
               "useDebugKeystore": true,
               "keystorePath": "",
               "keystorePassword": "",
@@ -85,7 +90,7 @@
           ],
           "outputName": "android"
         },
-        "time": "2021-8-4 17:52",
+        "time": "2021-8-6 10:09",
         "dirty": false
       }
     }
